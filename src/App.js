@@ -11,11 +11,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://co2ding-2021.herokuapp.com/api-docs/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Let's get started!!!
         </a>
       </header>
     </div>
